@@ -1,5 +1,20 @@
 # @techdocs/cli
 
+## 1.5.0-next.1
+
+### Minor Changes
+
+- 10a86bd4ae12: Add optional config and cli option for techdocs to specify default mkdocs plugins.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs-node@1.8.0-next.1
+  - @backstage/backend-common@0.19.5-next.1
+  - @backstage/catalog-model@1.4.1
+  - @backstage/cli-common@0.1.12
+  - @backstage/config@1.0.8
+
 ## 1.4.7-next.0
 
 ### Patch Changes

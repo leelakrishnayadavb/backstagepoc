@@ -1,5 +1,27 @@
 # @backstage/plugin-techdocs-backend
 
+## 1.7.0-next.1
+
+### Minor Changes
+
+- 10a86bd4ae12: Add optional config and cli option for techdocs to specify default mkdocs plugins.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/integration@1.7.0-next.1
+  - @backstage/plugin-techdocs-node@1.8.0-next.1
+  - @backstage/backend-common@0.19.5-next.1
+  - @backstage/plugin-search-backend-module-techdocs@0.1.7-next.1
+  - @backstage/backend-plugin-api@0.6.3-next.1
+  - @backstage/catalog-client@1.4.3
+  - @backstage/catalog-model@1.4.1
+  - @backstage/config@1.0.8
+  - @backstage/errors@1.2.1
+  - @backstage/plugin-catalog-common@1.0.15
+  - @backstage/plugin-permission-common@0.7.7
+  - @backstage/plugin-search-common@1.2.5
+
 ## 1.6.7-next.0
 
 ### Patch Changes

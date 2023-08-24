@@ -1,5 +1,23 @@
 # @backstage/plugin-playlist
 
+## 0.1.16-next.1
+
+### Patch Changes
+
+- ec4b0f8cd957: change color of delete icon to secondary in playlist table
+- Updated dependencies
+  - @backstage/core-components@0.13.5-next.1
+  - @backstage/plugin-search-react@1.7.0-next.1
+  - @backstage/plugin-catalog-react@1.8.4-next.1
+  - @backstage/catalog-model@1.4.1
+  - @backstage/core-plugin-api@1.6.0-next.0
+  - @backstage/errors@1.2.1
+  - @backstage/theme@0.4.1
+  - @backstage/plugin-catalog-common@1.0.15
+  - @backstage/plugin-permission-common@0.7.7
+  - @backstage/plugin-permission-react@0.4.15-next.0
+  - @backstage/plugin-playlist-common@0.1.9
+
 ## 0.1.15-next.0
 
 ### Patch Changes
